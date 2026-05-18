@@ -73,7 +73,7 @@ export default function ProductCardComponent() {
     <Card
       className="max-w-sm "
       imgAlt="Apple Watch Series 7 in colors pink, silver, and black" 
-      imgSrc="https://png.pngtree.com/png-vector/20240309/ourmid/pngtree-the-smartwatch-banner-png-image_11919210.png"
+      imgSrc="https://png.pngtree.com/png-vector/20241025/ourmid/pngtree-smart-watch-png-image_14171827.png"
     >
       <a href="#">
         <h5 className="text-xl font-semibold tracking-tight text-gray-900 dark:text-white">
@@ -139,7 +139,7 @@ export default function ProductCardComponent() {
     <Card
       className="max-w-sm "
       imgAlt="Apple Watch Series 7 in colors pink, silver, and black" 
-      imgSrc="https://png.pngtree.com/png-vector/20240309/ourmid/pngtree-the-smartwatch-banner-png-image_11919210.png"
+      imgSrc="https://static.vecteezy.com/system/resources/thumbnails/050/177/034/small/smart-watch-isolated-on-transparent-background-png.png"
     >
       <a href="#">
         <h5 className="text-xl font-semibold tracking-tight text-gray-900 dark:text-white">
@@ -205,7 +205,7 @@ export default function ProductCardComponent() {
     <Card
       className="max-w-sm "
       imgAlt="Apple Watch Series 7 in colors pink, silver, and black" 
-      imgSrc="https://png.pngtree.com/png-vector/20240309/ourmid/pngtree-the-smartwatch-banner-png-image_11919210.png"
+      imgSrc="https://png.pngtree.com/png-clipart/20250106/original/pngtree-smart-watch-png-image_18808764.png"
     >
       <a href="#">
         <h5 className="text-xl font-semibold tracking-tight text-gray-900 dark:text-white">

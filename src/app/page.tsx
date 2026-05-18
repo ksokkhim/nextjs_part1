@@ -23,6 +23,7 @@ export default function Home() {
         <CustomerCardComponent/>
       
     </div>
+  
     <ContactComponent/>
     
     </>

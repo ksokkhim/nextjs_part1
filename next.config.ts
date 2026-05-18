@@ -21,6 +21,18 @@ const nextConfig: NextConfig = {
       {
         protocol: 'https',
         hostname: 'images.rawpixel.com'
+      },
+      {
+        protocol: 'https',
+        hostname: 'png.pngtree.com'
+      },
+      {
+        protocol: 'https',
+        hostname: 'static.vecteezy.com'
+      },
+      {
+        protocol: 'https',
+        hostname: 'png.pngtree.com'
       }
     ]
   }

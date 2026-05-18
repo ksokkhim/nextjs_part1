@@ -41,13 +41,15 @@ export  default function NavbarComponent() {
         <NavbarToggle />
       </div>
       <NavbarCollapse>
-        <NavbarLink href="#" active>
+        <NavbarLink href="#" active className="text-2xl">
           Home
         </NavbarLink>
-        <NavbarLink href="#">About</NavbarLink>
-        <NavbarLink href="#">Services</NavbarLink>
-        <NavbarLink href="#">Pricing</NavbarLink>
-        <NavbarLink href="#">Contact</NavbarLink>
+        <NavbarLink href="#" className="text-2xl">About</NavbarLink>
+        <NavbarLink href="#" className="text-2xl">Services</NavbarLink>
+        <NavbarLink href="#" className="text-2xl">Services</NavbarLink>
+        <NavbarLink href="#" className="text-2xl">Services</NavbarLink>
+        <NavbarLink href="#"className="text-2xl">Pricing</NavbarLink>
+        <NavbarLink href="#"className="text-2xl">Contact</NavbarLink>
       </NavbarCollapse>
     </Navbar>
   );
