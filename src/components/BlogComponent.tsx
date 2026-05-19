@@ -4,10 +4,11 @@ interface BlogType{
   id: number,
     title : string,
     body: string,
+    reactions:number
     
 }
 
-export default function BlogComponent({id,title, body}: BlogType){
+export default function BlogComponent({id,title, body,reactions}: BlogType){
     return(
         <div className="flex px-3 py-3">
   <div className="max-w-sm rounded overflow-hidden shadow-lg">

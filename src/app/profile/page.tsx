@@ -20,7 +20,7 @@ export default function ProfilePage() {
     console.log("===> profile:", profile)
     
   return (
-    <div>
+    <div className="grid grid-cols-4 gap-4 p-8">
         {profile?.map(({title,body,id}) =>(
             <BlogComponent id={id}  key={id} title={title} body={body}/>
         ))}

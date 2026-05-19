@@ -46,8 +46,6 @@ export  default function NavbarComponent() {
         </NavbarLink>
         <NavbarLink href="#" className="text-2xl">About</NavbarLink>
         <NavbarLink href="#" className="text-2xl">Services</NavbarLink>
-        <NavbarLink href="#" className="text-2xl">Services</NavbarLink>
-        <NavbarLink href="#" className="text-2xl">Services</NavbarLink>
         <NavbarLink href="#"className="text-2xl">Pricing</NavbarLink>
         <NavbarLink href="#"className="text-2xl">Contact</NavbarLink>
       </NavbarCollapse>
